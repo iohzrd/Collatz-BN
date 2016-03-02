@@ -1,4 +1,4 @@
-/* Collatz-BN.c - Created by Adam Stohl - 2016 */
+/* Collatz-BN.c - Created by iohzrd - 2016 */
 
 #include<stdio.h>
 #include<stdbool.h>
